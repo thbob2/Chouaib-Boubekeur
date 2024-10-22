@@ -5,6 +5,7 @@
 - **Location:** Birkhadem, Algiers, Algeria
 - **LinkedIn:** [linkedin.com/in/chouaib-boubekeur](https://linkedin.com/in/chouaib-boubekeur)
 - **GitHub:** [github.com/thbob2](https://github.com/thbob2)
+  **WebSite:** [Chouaib Boubekeur](https://thbob2.github.io/Chouaib-Boubekeur/)
 
 ## Professional Summary
 Detail-oriented and experienced Software Engineer with a specialization in full-stack development, IT project management, and user support. Proficient in multiple programming languages, frameworks, and databases. Strong problem-solving abilities, team collaboration, and communication skills. Dedicated to optimizing processes and delivering high-quality software solutions.
