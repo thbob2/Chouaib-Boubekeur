@@ -12,8 +12,18 @@ Detail-oriented and experienced Software Engineer with a specialization in full-
 
 ## Professional Experience
 
-### IT Engineer | Stellantis El Djazaïr
-**January 2024 – Present**
+### Project Manager | Stellantis El Djazaïr
+**Mars 2025 - Present**
+ - Led end-to-end digital project delivery in vehicle logistics, from pre-study and requirements gathering to production support.
+ - Defined and designed system architecture and future To-Be operating model, ensuring scalability and sustainability.
+ - Coordinated business, IT, and development teams, translating requirements into actionable deliverables and maintaining alignment.
+ - Planned, tracked, and validated project milestones, including unit testing, UAT, stakeholder demos, and go-live.
+ - Delivered end-user training, documentation, and knowledge transfer, ensuring smooth transition to run mode and long-term adoption.
+ - Established governance, monitoring, and feedback loops to secure solution performance and operational continuity post go-live.
+
+
+### Project Analyst | Stellantis El Djazaïr
+**January 2024 – Mars 2025**
 - Lead IT project analysis and ensure the smooth operation of logistics systems.
 - Conduct user-training sessions and provide ongoing IT support.
 - Monitor and analyze key IT performance indicators (KPIs) to improve efficiency.
